@@ -30,7 +30,7 @@ public class Utilidad {
 	
 	/**
 	 * 
-	 * @param a 
+	 * @param a refactor
 	 * @param b
 	 * @return
 	 */
